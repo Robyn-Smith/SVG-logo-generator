@@ -27,3 +27,4 @@ This code is tested using jest. The user must install jest to test the validity 
 Once the user has installed all the neccessary packages, they can then run the code in the terminal by entering 'node index.js'. After this step is complete, the user will have to answer a series of prompts. When the user has ansered all of these questions, they should see the text 'Generated logo.svg' appear in the command line. They can then see their generated SVG logo by either viewing on the 'Svg Preview' Visual Studio Code extension or by opening the logo.svg file in a browser.
 
 # Walkthrough Video
+https://www.youtube.com/watch?v=ELwwwJ54h0c
