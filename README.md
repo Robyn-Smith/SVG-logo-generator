@@ -12,7 +12,9 @@ This code uses JavaScript and Node.js to generate simple SVG logos; this saves t
 * 'What colour would you like your text to be?'
 * 'What colour would you like the background?'
 * 'What shape would you like your logo?'
+
 These questions are used to gain information from the user about what they would like their own logo to contain  and their desired design. The user must input their answers by typing in the terminal and selecting a shape from the list including a triangle, square and circle. Once the user has answered all questions "Generated logo.svg" will be printed in the command line and a file called 'logo.svg' will be created. This is the SVG logo containing all the desired elements the user has chosen. This can be opened in the browser or can be visable via the Visual studio code extension 'SVG preview' and should be a 300x200 pixel image.
+
 Additionally, the accuracy of this code has been tested with the use of the node extension jest. Code has been written in 'shapes.test.js' and 'svg.test.js' comparing desired outcomes with the actual results when the code is run. If there are any problems with the code and results this will appear in the 'problems' section of the command-line.
 
 # Installation
