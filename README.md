@@ -28,3 +28,6 @@ Once the user has installed all the neccessary packages, they can then run the c
 
 # Walkthrough Video
 https://www.youtube.com/watch?v=ELwwwJ54h0c
+
+
+## RESUB NEEDED npm test NEEDS TO BE WRITTEN IN TERMINAL IN WALKTHROUGH VIDEO AND TEST.JS FILES NEED CHANGING SO IT DOESNT FAIL
